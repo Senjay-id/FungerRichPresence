@@ -1,0 +1,8 @@
+{
+    "name":"richPresence",
+    "status":false,
+    "parameters":{
+        "useCharacterClassName": false
+    },
+    "danger":false
+}
